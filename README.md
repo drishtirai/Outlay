@@ -3,7 +3,7 @@
 ## 📱 About Outlay
 OUTLAY is an App which comes with a web application too that helps to deliver basic shopping features about various products based on the user's preferences, data in the sense that it provides the price on a product or indicates additional locations where the product is accessible with their respective costs. OUTLAY can be summarised as a comfortable market manual with an extra component where the user can virtually try on the product and evaluate looks to be more convinced about their choice. If the user is not pleased, they can always search for comparable items using the app's search feature and use the map feature to look for stores in the area, compare the prices, and finally shop for the product they want. Technical part of our application was to develop the user end app additionally web application added for the user comfort with features of direction of shops, price comparission and to make shopping as easy as possible. OUTLAY also has a service that allows users to scan and browse for the product they want. "SEARCH BEFORE YOU SPEND!" is the motto of OUTLAY.
 
-## Features Integrated (App)
+## 👩🏼‍💻Features Integrated (App)
 - Login Page Using Firebase
 - Wishlist
 - Cart
@@ -16,7 +16,7 @@ OUTLAY is an App which comes with a web application too that helps to deliver ba
 - Push Notifiation to customers
 - And much much more , download apk and try to discover !
 
-## Features Integrated (Web)
+## 💻Features Integrated (Web)
 - Login and sign up page 
 - Navigation
 - Featured Products
@@ -27,7 +27,7 @@ OUTLAY is an App which comes with a web application too that helps to deliver ba
 - Search Menu
 
 
-## Functionalities Enabled
+## 🛡️Functionalities Enabled
 
 - Listview / Gridview alongwith Image loading
 - Send Push Notications via Onesignal.com
@@ -35,7 +35,7 @@ OUTLAY is an App which comes with a web application too that helps to deliver ba
 - Unique order Id generator for each order
 - Stylish Double hierarchy Navigation drawer !
 
-## Questions ? 
+## ❔Questions 
 
 - Why Work with 2 different Schema ?
 - Why not firebase only for user Management also ?
@@ -52,7 +52,7 @@ Simply because we do not want same dB to hold user as well as product and order 
 
 
 
-## Created & Maintained By
+## ⛓️Created & Maintained By
 
 [Drishti Rai](https://github.com/drishtirai)
 Email: [E20CSE495@bennett.edu.in](mailto:E20CSE495@bennett.edu.in)
@@ -65,7 +65,7 @@ Email: [E20CSE517@bennett.edu.in](mailto:E20CSE517@bennett.edu.in)
 
 
 
-## Visitors Count
+## 📍Visitors Count
 
 <img align="left" src = "https://profile-counter.glitch.me/BiblioManiac/count.svg" alt ="Loading">
 
